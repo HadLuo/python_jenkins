@@ -1,0 +1,12 @@
+# 代码和构建的jar包输出路径
+src: C:/Users/Administrator/Desktop/test
+# maven 的settings 文件路径
+settings: F:/mvn-res/settings-bilin.xml
+# git 的地址
+git: https://gitee.com/community-operation-group/daily-study.git
+# git 的分支配置
+git-branch: dev
+# 服务service的路径
+service: study/study-service
+# 钉钉告警webwork
+webwork: https://oapi.dingtalk.com/robot/send?access_token=698f5a68965391f1a5c008634fc0c27502edfe446b4cb7be962080f1f458f897
